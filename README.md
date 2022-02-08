@@ -10,5 +10,5 @@
    据等，可以快速完成系统上线。
        数据库采用可以选用mySql或者Sql_Server.数据服务层采用kunernetes和docker技术；全面修改为支持.Net6,可以运行在Windows、linux、mac os系统之上。 
    目前PLM系统的演示功能介绍系统已经上线，欢迎下载。
-   链接：https://pan.baidu.com/s/10CI5hn9T5-ed7v7-3BRjTQ 
+   链接：https://pan.baidu.com/s/1BaRoIcZZebDy71GWILhxpA 
    提取码：1234 
