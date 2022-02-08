@@ -12,3 +12,7 @@
    目前PLM系统的演示功能介绍系统已经上线，欢迎下载。
    链接：https://pan.baidu.com/s/1BaRoIcZZebDy71GWILhxpA 
    提取码：1234 
+   
+   
+   ![8E2EC5DE77FCF15EEA12C3E33662DCA4](https://user-images.githubusercontent.com/5625452/152901198-5898f3be-c14f-4f4d-b50c-06ffa86c4b0c.png)
+
